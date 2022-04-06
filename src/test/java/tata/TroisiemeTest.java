@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.concurrent.TimeUnit;
 
-public class TroisièmeTest {
+public class TroisiemeTest {
 
     @Test
     public void test(){
